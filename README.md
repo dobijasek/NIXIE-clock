@@ -20,8 +20,8 @@ Projekt jest moim pierwszym projektem z wykorzystaniem mikrokontrolera. Zegar zb
 
 * film na YT pokazujący zegar w akcji
 [![Watch the video](https://img.youtube.com/vi/NN6xQ5y-V2Y/maxresdefault.jpg)](https://youtu.be/NN6xQ5y-V2Y)
-[1](images/IMG_20180215_072054.jpg)
-[2](images/IMG_20180226_105730.jpg)
-[3](images/IMG_20180328_061403.jpg)
-[4](images/IMG_20180401_085340.jpg)
-[5](images/IMG_20180401_085501.jpg)
+![1](images/IMG_20180215_072054.jpg)
+![2](images/IMG_20180226_105730.jpg)
+![3](images/IMG_20180328_061403.jpg)
+![4](images/IMG_20180401_085340.jpg)
+![5](images/IMG_20180401_085501.jpg)
